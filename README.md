@@ -1,3 +1,8 @@
+https://cnki.cn-ki.net/kns/brief/Default_Result.aspx?txt_1_sel=FT%24%25%3D%7C&txt_1_value1=%E9%81%97%E5%B0%BF&txt_1_special1=%25&txt_extension=&currentid=txt_1_value1&dbJson=coreJson&dbPrefix=SCDB&db_opt=CJFQ%2CCDFD%2CCMFD%2CCPFD%2CIPFD%2CCCND%2CCJRF%2CCCJD&singleDB=SCDB&db_codes=CJFQ%2CCDFD%2CCMFD%2CCPFD%2CIPFD%2CCCND%2CCJRF%2CCCJD&singleDBName=&againConfigJson=false&action=scdbsearch&ua=1.11
+
+
+大概有5k篇文章
+
 <div align="center">
   <img src="src/assets/logo.png" width="150" title="App Logo">
 
