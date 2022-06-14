@@ -57,3 +57,66 @@ https://cnki.cn-ki.net/kns/brief/Default_Result.aspx?txt_1_sel=FT%24%25%3D%7C&tx
 ![Demo](src/assets/Demo.gif)<br><br>
 
 
+
+高危因素
+
+
+
+What causes enuresis in a child?
+
+Enuresis has many possible causes. The cause of nighttime enuresis often is not known. But possible causes and risk factors may include 1 or more of these:
+
+    Anxiety
+
+    Attention deficit/hyperactivity disorder (ADHD)
+
+    Certain genes
+
+    Constipation that puts pressure on the bladder
+
+    Delayed bladder development
+
+    Diabetes
+
+    Not enough antidiuretic hormone (ADH) in the body during sleep
+
+    Obstructive sleep apnea
+
+    Overactive bladder
+
+    Slower physical development
+
+    Small bladder
+
+    Structural problems in the urinary tract
+
+    Trouble feeling that the bladder is full while asleep
+
+    Urinary tract infection
+
+    Very deep sleep
+
+Daytime enuresis may be caused by:
+
+    Anxiety
+
+    Caffeine
+
+    Constipation that puts pressure on the bladder
+
+    Stopping urine stream before finishing (dysfunctional voiding)
+
+    Not going to the bathroom often enough
+
+    Not urinating enough when going
+
+    Overactive bladder
+
+    Small bladder
+
+    Structural problems in the urinary tract
+
+    Urinary tract infection
+
+    Keeping legs too close together traps urine in the vagina and urine leaks out (vaginal voiding)
+
